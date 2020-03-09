@@ -14,4 +14,4 @@ The 3D structure of the genome plays a key role in regulatory control of the cel
 
 [Download paper here](https://www.pnas.org/content/114/52/13714.long)
 
-Recommended citation: Anastasiya Belyaeva, Saradha Venkatachalapathy, Mallika Nagarajan, G. V. Shivashankar, and Caroline Uhler. (2017). &quot;Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription.&quot; <i>Proceedings of the National Academy of Sciences</i>.
+Citation: Anastasiya Belyaeva, Saradha Venkatachalapathy, Mallika Nagarajan, G. V. Shivashankar, and Caroline Uhler. (2017). &quot;Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription.&quot; <i>Proceedings of the National Academy of Sciences</i>.
