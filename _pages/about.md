@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at the Mechanobiology Institute at NUS who is specializing in computer vision and computational biology.Extensive background in developing computer vision algorithms and in using statistical models to interpret causality in highly variable processes. Experienced in leading interdisciplinary collaborative projects with biologists and mathematicians to guide the design of experiments and modeling. 
+My research focuses on deciphering the contribution of mechanics to the variability observed in important heterogenous processes such as cancer biology and stem cell engineering. We use a combination of image and sequencing data to infer causality. <br/><br/>
 
+I am also interested in building quantitative 3D models of structures. Towards that end, I have developed computer vision algorithms quatitatify structures in 3D images. <br/><br/>
+
+I am excited about developing quantitative models that are descriptive and predictive of highly variable processes. 
