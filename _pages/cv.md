@@ -65,15 +65,15 @@ PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy
 
 ## CONFERENCE: TALKS AND POSTERS
 * Mechanobiology of Disease, MBI-BioPhysical Society meeting (Singapore, Sep 2016)
-** Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
+...Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
 * The 3rd International Symposium on Mechanobiology (Singapore, Dec 2017) 
-** Talk: “Role of 3D chromatin architecture in differential genome regulation”
+...Talk: “Role of 3D chromatin architecture in differential genome regulation”
 * Nuclear Mechanogenomics, EMBO Workshop (Singapore, Apr 2018)
-** Talk: Role of cell geometry and 3D chromatin structure in differential genome regulation”
+...Talk: Role of cell geometry and 3D chromatin structure in differential genome regulation”
 * International Conference on Genomes and AI: From Packing to Regulation (Singapore, Oct 2019)
-** Talk: “Multivariate analysis of fibroblast activation in engineered 3D tumor microenvironments”
+...Talk: “Multivariate analysis of fibroblast activation in engineered 3D tumor microenvironments”
 * Drug Discovery 2019 – Looking Back To The Future (Liverpool, Nov 2019)
-** Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
+...Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
 * Annual Biophysical Society Meeting (San Diego, Feb 2020) 
-** Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
+...Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
 
