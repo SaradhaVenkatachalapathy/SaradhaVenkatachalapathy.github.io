@@ -64,8 +64,7 @@ PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy
 * Supervised and mentored over 5 students in the lab towards their thesis.
 
 ## CONFERENCE: TALKS AND POSTERS
-* Mechanobiology of Disease, MBI-BioPhysical Society meeting (Singapore, Sep 2016)
-
+* Mechanobiology of Disease, MBI-BioPhysical Society meeting (Singapore, Sep 2016)<br/>
 ...Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
 * The 3rd International Symposium on Mechanobiology (Singapore, Dec 2017) 
 
