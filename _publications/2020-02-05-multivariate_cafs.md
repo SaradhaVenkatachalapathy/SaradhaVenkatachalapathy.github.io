@@ -1,7 +1,7 @@
 ---
 title: "Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments."
 collection: publications
-permalink: /publication/multivariate_cafs
+permalink: /publication/2020-02-05-multivariate_cafs
 excerpt: 'This study demonstrates that the inter chromosomal contacts are crucial elements of transcription regulation.'
 date: 2020-02-05
 venue: 'Molecular Biology of the Cell'
