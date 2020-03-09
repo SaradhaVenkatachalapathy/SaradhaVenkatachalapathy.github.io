@@ -8,18 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
+PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf)
 
-## Education
+## EDUCATION
 * B.Tech in Biotechnology(with Distinction), SASTRA University, India, 2015
 * Ph.D in Mechanobiology, National University of Singapore, 2020 (expected)
 
-## Skills
-* Staitictics: Linear algebra,Multivariate analysis,Machine Learning, Clustering,Pattern recognition, Diffusion maps and Psuedotime analysis
+## SKILLS
+* Statistics: Linear algebra,Multivariate analysis,Machine Learning, Clustering,Pattern recognition, Diffusion maps and Psuedotime analysis
 * Computer Vision: Segmentation, Feature generation and Particle tracking
-* Computational Biology: Next Gen-Sequencing analysis of Microarray, RNA-Seq and HiC data       
+* Computational Biology: Next Gen-Sequencing analysis of Microarray, RNA-Seq including single cell RNA-Seq and HiC data       
 * Experimental Skills: Microscopy, Tissue engineering and mechanical manipulation of cells
 
-## Selected Projects
+## SELECTED RESEARCH PROJECTS
 
 **Automated feature generator for 3D images**
 * Built an in-house automatic image processing pipeline for segmentation and feature generation.
@@ -44,3 +45,20 @@ redirect_from:
 **Cell shape modulates cellular response to stimuli**	
 * Aligned, analyzed, visualized and interpreted differential gene expression patterns in RNA-Seq and microarray data. Also performed statistical tests and pathway analysis. 
 * Demonstrated the cell shape can modulate the transcriptional response to compressive load and inflammation.
+
+## AWARDS AND HONOURS
+* Dean’s Merit list of the top 2-10% in the University (2014-2015)
+* Inspirational Mentorship Award, NUS High School(2017)  
+* Best Oral Presentation Award, International Conference on Genomes and AI (2019)
+
+## WORK EXPERIENCES
+* Consultant,[Qritive](https://www.qritive.com/)	(Sep-Dec 2019)
+* Research Assistant, NUS (Sep 2015 -Jul 2016)   
+* Intern, Biophysics laboratory, Raman Research Institute (RRI) (Dec 2013)
+* Medical intern, Raju Hospitals: Kanmani Fertility Clinic (June-July 2013)
+* Undergraduate Researcher, Chromatin Epigenetics laboratory, SASTRA (2012-2014)
+
+## LEADERSHIP AND TEACHING EXPERIENCE
+* Designed and instructed a workshop session-Image Analysis for dummies
+* Teaching Assistance for MATLAB Programming- Bootcamp for Mechanobiology • Teaching Assistance for Nuclear Mechanics and Genome Regulation
+* Supervised and mentored over 5 students in the lab towards their thesis.
