@@ -15,3 +15,9 @@ My research focuses on deciphering the contribution of mechanics to the variabil
 I also work twoards 3D models of structures. Towards that end, I have developed computer vision algorithms that quantify spatial informations from 3D images. <br/>
 
 I am excited about developing quantitative models that are descriptive and predictive of highly variable processes. 
+
+
+<br/><br/><br/>
+Here is my [academic CV](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf) or for a quick read, here is my [resume](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_resume.pdf)
+
+
