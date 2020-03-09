@@ -1,7 +1,7 @@
 ---
 title: "Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription."
 collection: publications
-permalink: /publication/inter_chr_hotspots
+permalink: /publication/2017-12-26-inter_chr_hotspots
 excerpt: 'This study demonstrates that the inter chromosomal contacts are crucial elements of transcription regulation.'
 date: 2017-12-26
 venue: 'Proceedings of the National Academy of Sciences'
