@@ -1,9 +1,9 @@
 ---
 title: "Laterally confined growth of cells induces nuclear reprogramming in the absence of exogenous biochemical factors"
 collection: publications
-permalink: /publication/fib_mech_reprog
+permalink: /publication/2018-05-22-fib_mech_reprog
 excerpt: 'In this paper we describe a novel method of reprogramming fibbroblasts to iPSC-like cells.'
-date: 2018
+date: 2018-05-22
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/content/115/21/E4741.long'
 citation: 'Bibhas Roy, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, Mallika Nagarajan, and G. V. Shivashankar.(2018). &quot;Laterally confined growth of cells induces nuclear reprogramming in the absence of exogenous biochemical factors.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
