@@ -5,8 +5,6 @@ permalink: /publication/2018-12-03-geo_compressive_force
 excerpt: 'In this work we demonstrate cells of different shapes respond differently to compressive force'
 date: 2018-12-03
 venue: 'Molecular Biology of the Cell '
-paperurl: 'https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-04-0256'
-citation: 'Karthik Damodaran*, Saradha Venkatachalapathy*, Farid Alisafaei, A. V. Radhakrishnan, Doorgesh Sharma Jokhun, Vivek B. Shenoy, and G. V. Shivashankar. (2018). &quot;Compressive force induces reversible chromatin condensation and cell geometry–dependent transcriptional response.&quot; <i>Molecular Biology of the Cell</i>.'
 ---
 
 ## Abstract
