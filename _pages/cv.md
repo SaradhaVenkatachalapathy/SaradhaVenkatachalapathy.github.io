@@ -10,9 +10,11 @@ redirect_from:
 {% include base_path %}
 PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf)
 
-## EDUCATION
+## EDUCATION AND WORK EXPERIENCE 
 * B.Tech in Biotechnology(with Distinction), SASTRA University, India, 2015
 * Ph.D in Mechanobiology, National University of Singapore, 2020 (expected)
+* Consultant,[Qritive](https://www.qritive.com/)	(Sep-Dec 2019)
+* Research Assistant, NUS (Sep 2015 -Jul 2016)   
 
 ## SKILLS
 * Statistics: Linear algebra,Multivariate analysis,Machine Learning, Clustering,Pattern recognition, Diffusion maps and Psuedotime analysis
@@ -51,14 +53,27 @@ PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy
 * Inspirational Mentorship Award, NUS High School(2017)  
 * Best Oral Presentation Award, International Conference on Genomes and AI (2019)
 
-## WORK EXPERIENCES
-* Consultant,[Qritive](https://www.qritive.com/)	(Sep-Dec 2019)
-* Research Assistant, NUS (Sep 2015 -Jul 2016)   
+## PAST RESEARCH EXPERIENCE
 * Intern, Biophysics laboratory, Raman Research Institute (RRI) (Dec 2013)
 * Medical intern, Raju Hospitals: Kanmani Fertility Clinic (June-July 2013)
 * Undergraduate Researcher, Chromatin Epigenetics laboratory, SASTRA (2012-2014)
 
-## LEADERSHIP AND TEACHING EXPERIENCE
+## MENTORSHIP AND TEACHING EXPERIENCE
 * Designed and instructed a workshop session-Image Analysis for dummies
 * Teaching Assistance for MATLAB Programming- Bootcamp for Mechanobiology • Teaching Assistance for Nuclear Mechanics and Genome Regulation
 * Supervised and mentored over 5 students in the lab towards their thesis.
+
+## CONFERENCE: TALKS AND POSTERS
+* Mechanobiology of Disease, MBI-BioPhysical Society meeting (Singapore, Sep 2016)
+** Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
+* The 3rd International Symposium on Mechanobiology (Singapore, Dec 2017) 
+** Talk: “Role of 3D chromatin architecture in differential genome regulation”
+* Nuclear Mechanogenomics, EMBO Workshop (Singapore, Apr 2018)
+** Talk: Role of cell geometry and 3D chromatin structure in differential genome regulation”
+* International Conference on Genomes and AI: From Packing to Regulation (Singapore, Oct 2019)
+** Talk: “Multivariate analysis of fibroblast activation in engineered 3D tumor microenvironments”
+* Drug Discovery 2019 – Looking Back To The Future (Liverpool, Nov 2019)
+** Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
+* Annual Biophysical Society Meeting (San Diego, Feb 2020) 
+** Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
+
