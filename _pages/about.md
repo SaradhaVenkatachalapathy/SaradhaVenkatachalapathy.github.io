@@ -18,7 +18,6 @@ I am excited about developing quantitative models that are descriptive and predi
 
 
 <br/><br/><br/>
-Here is my [academic CV](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf) or for a quick read, here is my [resume](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_resume.pdf)
-<!-- <embed src="https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf" width="650" height="1800" type='application/pdf'> -->
+Here is my [academic CV](https://SaradhaVenkatachalapathy.github.io/files/Saradha_CV.pdf) or for a quick read, here is my [resume](https://SaradhaVenkatachalapathy.github.io/files/Saradha_resume.pdf)
 
 
