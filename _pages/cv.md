@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,28 +33,16 @@ Selected Projects
 * Only a subset of cells are activated by cancer signals in engineered breast cancer tissue.
 * Developed a linear classifier to predict cell shape with an accuracy of 95%.
 * Established the existence of activation primed cell shapes using multimodal-multivariate analysis.
-* Demonstrated a causal relationship between cell geometry and activation [MBoC,2020].
+* Demonstrated a causal relationship between cell geometry and activation.
 
 **Time series analysis of reprogramming: Trajectory inference**.
-* Aligned, analyzed and visualized the transcriptome during mechanically induced de-differentiation. Performed statistical tests and pathway analysis to characterize the temporal changes in the transcription profile and infer the biological relevance [PNAS,2018]. 
+* Aligned, analyzed and visualized the transcriptome during mechanically induced de-differentiation. Performed statistical tests and pathway analysis to characterize the temporal changes in the transcription profile and infer the biological relevance. 
 * Implemented pseudotemporal ordering of single cell data to identify variable trajectories during the generation of stem cells. 
 
 **DNA structure informs its function**
-* Predicted DNA structure from integrating RNA-Seq and ChIP-Seq data and validated the robustness using experiments and HiC data [PNAS,2017].
-* Identified latent immune cells based on image based DNA structures and clustering large single cell RNA-Seq dataset [bioRxiv, 2019].
+* Predicted DNA structure from integrating RNA-Seq and ChIP-Seq data and validated the robustness using experiments and HiC data.
+* Identified latent immune cells based on image based DNA structures and clustering large single cell RNA-Seq dataset.
 
 **Cell shape modulates cellular response to stimuli**	
 * Aligned, analyzed, visualized and interpreted differential gene expression patterns in RNA-Seq and microarray data. Also performed statistical tests and pathway analysis. 
-* Demonstrated the cell shape can modulate the transcriptional response to compressive load and inflammation [PNAS, 2017][MBoC, 2018].
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Demonstrated the cell shape can modulate the transcriptional response to compressive load and inflammation.
