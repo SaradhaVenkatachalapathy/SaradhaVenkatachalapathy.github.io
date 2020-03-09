@@ -3,7 +3,7 @@ title: "Cell geometry dictates TNFα-induced genome response"
 collection: publications
 permalink: /publication/geo_tnf
 excerpt: 'In this work we demonstrate cells of different shapes respond differently to inflammatory cues'
-date: 2017
+date: 2017-05-16
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/content/114/20/E3882'
 citation: 'Aninda Mitra, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, and G. V. Shivashankar. (2017). &quot;Cell geometry dictates TNFα-induced genome response.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
