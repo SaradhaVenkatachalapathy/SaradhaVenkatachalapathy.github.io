@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saradha V"
+  name             : 'Saradha Venkatachalapathy'
   avatar           :
-  bio              : "PhD student at NUS. Expert in computer vision and computational biology"
-  location         : "Singapore"
+  bio              : 'PhD student at NUS. Expert in computer vision and computational biology'
+  location         : 'Singapore'
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=w8c0SEUAAAAJ&hl=en"
-  email            : "saradhavpathy@gmail.com
+  googlescholar    : 'https://scholar.google.com/citations?user=w8c0SEUAAAAJ&hl=en'
+  email            : 'saradhavpathy@gmail.com'
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SaradhaVenkatachalapathy"
+  github           : 'SaradhaVenkatachalapathy'
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://sg.linkedin.com/in/saradhav"
-  orcid            : "http://orcid.org/0000-0002-7639-0506"
+  linkedin         : 'https://sg.linkedin.com/in/saradhav'
+  orcid            : 'http://orcid.org/0000-0002-7639-0506'
   pinterest        :
   soundcloud       :
   stackoverflow    : 
