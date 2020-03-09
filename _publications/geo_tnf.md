@@ -6,7 +6,7 @@ excerpt: 'In this work we demonstrate cells of different shapes respond differen
 date: 2017
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/content/114/20/E3882'
-citation: 'Mitra, Aninda, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, and G. V. Shivashankar. (2017). &quot;Cell geometry dictates TNFα-induced genome response.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
+citation: 'Aninda Mitra, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, and G. V. Shivashankar. (2017). &quot;Cell geometry dictates TNFα-induced genome response.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
 ---
 
 ## Abstract
@@ -14,4 +14,4 @@ Cells in physiology integrate local soluble and mechanical signals to regulate g
 
 [Download paper here](https://www.pnas.org/content/114/20/E3882)
 
-Recommended citation: Mitra, Aninda, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, and G. V. Shivashankar. (2017). &quot;Cell geometry dictates TNFα-induced genome response.&quot; <i>Proceedings of the National Academy of Sciences</i>.
+Recommended citation: Aninda Mitra, Saradha Venkatachalapathy, Prasuna Ratna, Yejun Wang, Doorgesh Sharma Jokhun, and G. V. Shivashankar. (2017). &quot;Cell geometry dictates TNFα-induced genome response.&quot; <i>Proceedings of the National Academy of Sciences</i>.
