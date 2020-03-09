@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saradha Venkatachalapathy"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Saradha Venkatachalapathy"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 'Saradha Venkatachalapathy'
   avatar           : 'saradha_dp.jpg'
-  bio              : 'PhD student at NUS. Expert in computer vision and computational biology'
+  bio              : 'PhD student at NUS. Specializing in computer vision and computational biology'
   location         : 'Singapore'
   employer         :
   pubmed           : 
