@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}<br/>
-PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf)
+PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/files/Saradha_CV.pdf)
 
 ## EDUCATION AND WORK EXPERIENCE 
 * B.Tech in Biotechnology(with Distinction), SASTRA University, India, 2015
