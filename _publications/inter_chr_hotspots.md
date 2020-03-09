@@ -3,7 +3,7 @@ title: "Network analysis identifies chromosome intermingling regions as regulato
 collection: publications
 permalink: /publication/inter_chr_hotspots
 excerpt: 'This study demonstrates that the inter chromosomal contacts are crucial elements of transcription regulation.'
-date: 2017
+date: 2017-12-26
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/content/114/52/13714.long'
 citation: 'Anastasiya Belyaeva, Saradha Venkatachalapathy, Mallika Nagarajan, G. V. Shivashankar, and Caroline Uhler. (2017). &quot;Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
