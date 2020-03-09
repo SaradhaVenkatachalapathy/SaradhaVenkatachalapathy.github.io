@@ -1,7 +1,7 @@
 ---
 title: "Compressive force induces reversible chromatin condensation and cell geometry–dependent transcriptional response"
 collection: publications
-permalink: /publication/geo_compressive_force
+permalink: /publication/2018-12-03-geo_compressive_force
 excerpt: 'In this work we demonstrate cells of different shapes respond differently to compressive force'
 date: 2018-12-03
 venue: 'Molecular Biology of the Cell '
