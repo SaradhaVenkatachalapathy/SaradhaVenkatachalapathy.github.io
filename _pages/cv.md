@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}<br/>
 PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy/SaradhaVenkatachalapathy.github.io/blob/master/files/Saradha_CV.pdf)
 
 ## EDUCATION AND WORK EXPERIENCE 
@@ -76,4 +76,12 @@ PDF version is also available [here](https://github.com/SaradhaVenkatachalapathy
   Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
 * Annual Biophysical Society Meeting (San Diego, Feb 2020)<br/>
   Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
+
+## PEER REVIEWED PUBLICATIONS
+6. Venkatachalapathy S, Jokhun DS, and Shivashankar GV. Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments. Mol. Biol. Cell 2020;:mbcE19080420. [PMID: 32023167]
+5. Damodaran K*, Venkatachalapathy S*, Alisafaei F, Radhakrishnan AV, Sharma Jokhun D, Shenoy VB, and Shivashankar GV. Compressive force induces reversible chromatin condensation and cell geometry dependent transcriptional response. Mol. Biol. Cell 2018;:mbcE18040256. [PMID: 30256731](*equal contribution)
+4. Roy B, Venkatachalapathy S, Ratna P, Wang Y, Jokhun DS, Nagarajan M, and Shivashankar GV. Laterally confined growth of cells induces nuclear reprogramming in the absence of exogenous biochemical factors. Proc. Natl. Acad. Sci. U.S.A. 2018;. [PMID: 29735717]
+3. Belyaeva A, Venkatachalapathy S, Nagarajan M, Shivashankar GV, and Uhler C. Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription. Proc. Natl. Acad. Sci. U.S.A. 2017;. [PMID: 29229825]
+2. Mitra A, Venkatachalapathy S, Ratna P, Wang Y, Jokhun DS, and Shivashankar GV. Cell geometry dictates TNFα-induced genome response. Proc. Natl. Acad. Sci. U.S.A. 2017;. [PMID: 28461498]
+1. Radhakrishnan AV, Jokhun DS, Venkatachalapathy S, and Shivashankar GV. Nuclear Positioning and Its Translational Dynamics Are Regulated by Cell Geometry. Biophys. J. 2017; 112(9):1920-1928. [PMID: 28494962]
 
