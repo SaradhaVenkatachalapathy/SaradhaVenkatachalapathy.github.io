@@ -5,8 +5,6 @@ permalink: /publication/2020-02-05-multivariate_cafs
 excerpt: 'This study demonstrates that the inter chromosomal contacts are crucial elements of transcription regulation.'
 date: 2020-02-05
 venue: 'Molecular Biology of the Cell'
-paperurl: 'https://www.molbiolcell.org/doi/abs/10.1091/mbc.E19-08-0420'
-citation: 'Saradha Venkatachalapathy, Doorgesh Sharma Jokhun, and G. V. Shivashankar.(2020). &quot;Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments.&quot; <i>Molecular Biology of the Cell</i>.'
 ---
 
 ## Abstract
