@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV/Bio"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.Tech in Biotechnology(with Distinction), SASTRA University, India, 2015
 * Ph.D in Mechanobiology, National University of Singapore, 2020 (expected)
 
-Skills
+## Skills
 ======
 * Staitictics: Linear algebra,Multivariate analysis,Machine Learning, Clustering,Pattern recognition, Diffusion maps and Psuedotime analysis
 * Computer Vision: Segmentation, Feature generation and Particle tracking
 * Computational Biology: Next Gen-Sequencing analysis of Microarray, RNA-Seq and HiC data       
 * Experimental Skills: Microscopy, Tissue engineering and mechanical manipulation of cells
 
-Selected Projects
+## Selected Projects
 ======
 **Automated feature generator for 3D images**
 * Built an in-house automatic image processing pipeline for segmentation and feature generation.
