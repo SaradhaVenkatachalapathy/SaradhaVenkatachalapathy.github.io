@@ -5,7 +5,7 @@ permalink: /publication/2020-02-05-multivariate_cafs
 excerpt: 'This study maps fibroblast cell shapes to their activation level and demontrates a causal relationship between the two'
 date: 2020-02-05
 venue: 'Molecular Biology of the Cell'
-authors: <b>Saradha Venkatachalapathy<b>, Doorgesh Sharma Jokhun, and G. V. Shivashankar
+authors: Saradha Venkatachalapathy, Doorgesh Sharma Jokhun, and G. V. Shivashankar
 ---
 
 ## Abstract
