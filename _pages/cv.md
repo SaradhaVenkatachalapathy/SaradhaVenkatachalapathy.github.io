@@ -64,7 +64,6 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 * Supervised and mentored over 5 students in the lab towards their thesis.
 
 ## CONFERENCE: TALKS AND POSTERS
-
 <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
