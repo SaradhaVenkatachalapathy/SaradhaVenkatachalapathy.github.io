@@ -64,18 +64,6 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 * Supervised and mentored over 5 students in the lab towards their thesis.
 
 ## CONFERENCE: TALKS AND POSTERS
-* Mechanobiology of Disease, MBI-BioPhysical Society meeting (Singapore, Sep 2016)<br/>
-  Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
-* The 3rd International Symposium on Mechanobiology (Singapore, Dec 2017)<br/>
-  Talk: “Role of 3D chromatin architecture in differential genome regulation”
-* Nuclear Mechanogenomics, EMBO Workshop (Singapore, Apr 2018)<br/>
-  Talk: Role of cell geometry and 3D chromatin structure in differential genome regulation”
-* International Conference on Genomes and AI: From Packing to Regulation (Singapore, Oct 2019)<br/>
-  Talk: “Multivariate analysis of fibroblast activation in engineered 3D tumor microenvironments”
-* Drug Discovery 2019 – Looking Back To The Future (Liverpool, Nov 2019)<br/>
-  Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
-* Annual Biophysical Society Meeting (San Diego, Feb 2020)<br/>
-  Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
 
 <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -88,7 +76,3 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 4. Belyaeva A, Venkatachalapathy S, Nagarajan M, Shivashankar GV, and Uhler C. Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription. Proc. Natl. Acad. Sci. U.S.A. 2017;. [PMID: 29229825]
 5. Mitra A, Venkatachalapathy S, Ratna P, Wang Y, Jokhun DS, and Shivashankar GV. Cell geometry dictates TNFα-induced genome response. Proc. Natl. Acad. Sci. U.S.A. 2017;. [PMID: 28461498]
 6. Radhakrishnan AV, Jokhun DS, Venkatachalapathy S, and Shivashankar GV. Nuclear Positioning and Its Translational Dynamics Are Regulated by Cell Geometry. Biophys. J. 2017; 112(9):1920-1928. [PMID: 28494962]
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
