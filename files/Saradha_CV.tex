@@ -1,0 +1,208 @@
+%-------------------------
+% Resume in Latex
+% Author : Saradha Venkatachalapathy
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{etaremune}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\setlist{nosep}
+\setlist[itemize]{leftmargin=0.7cm}
+\setlength{\tabcolsep}{0in}
+
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = [rgb]{0.3,0.3,0.5}, %Colour for external hyperlinks
+  linkcolor    = [rgb]{0.3,0.3,0.5} %Colour of internal links
+  citecolor   =  [rgb]{0.3,0.3,0.5} %Colour of citations
+}
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{flushleft}
+{\LARGE {\bf Saradha Venkatachalapathy}} \hfill  {\href{mailto:saradhavpathy@gmail.com}{saradhavpathy@gmail.com}}\\
+{ }\hfill {\href{https://saradhavenkatachalapathy.github.io/}{\underline {Website}}}{ }
+  {\textbar}{ }{\href{https://www.linkedin.com/in/saradhav/}{\underline {LinkedIn}}} \\
+ \end{flushleft}
+%-----------SUMMARY-----------------
+\section{\bf SUMMARY}
+\justify{ Ph.D. student at the Mechanobiology Institute, NUS specializing in genomics and computer vision. Extensive background in developing algorithms and implementing statistical models to interpret causality in highly variable processes. Experienced in leading interdisciplinary collaborative projects with biologists and mathematicians to guide the design of experiments and modeling.
+}
+
+
+%-----------EDUCATION AND WORK EXPERIENCE-----------------
+\vspace{0.8mm}
+\section{\bf EDUCATION AND WORK EXPERIENCE}
+{\bf Ph.D, Mechanobiology }{\textbar}{ National University of Singapore }{\textbar}{ GPA 4.7/5} \hfill {\em Sep 2016 - Present} 
+\\
+{\bf B.Tech Biotechnology }{(Distinction) }{\textbar}{ SASTRA University }{\textbar}{ GPA 8.1/10} \hfill {\em Jul 2011 - May 2015} 
+\\
+{\bf Consultant}{, Computer Vision }{\textbar}{ }\href{https://www.qritive.com/}{\underline {Qritive}} \hfill {\em Sep 2019 - Dec 2019} 
+\\
+{\bf Research Assistant}{, National University of Singapore }
+\hfill {\em Sep 2015 - Jul 2016} 
+
+%--------SKILLS------------
+\vspace{0.8mm}
+\section{\bf SKILLS}
+{\bf Statistics: }{Machine Learning, Linear Algebra, Regression, Diffusion maps and Pattern recognition.}
+\\
+{\bf Computer Vision: }{Segmentation, Feature generation and Particle tracking}
+\\
+{\bf Computational Biology: }{Analysis of bulk and single cell Microarray, RNA-Seq and HiC.}
+\\
+{\bf Experimental Skills: }{Microscopy, Tissue engineering and mechanical manipulation of cells.}
+\\
+{\bf Tools: }{R, MATLAB, Python (pandas, scikit, PyTorch), SQL, Git, LATEX and Inkscape.}
+%-----------SELECTED RESEARCH PROJECTS-----------------
+\vspace{0.8mm}
+\section{\bf SELECTED RESEARCH PROJECTS}
+{\bf Automated feature generator for 3D images}
+\begin{itemize}
+    \item Built an in-house automatic image processing pipeline for segmentation and feature generation.
+    \item Developed novel parameters that measure morphology, textural and spatial distribution of objects.
+     \item Integrated multi-domain features such as protein expression, RNA seq and image features for deducing functional links. 
+    \item This reduced the processing time from 48 hours to 3 hours. 
+\end{itemize}
+\vspace{1mm}
+{\bf Deconvolving cell variability in cancer}
+\begin{itemize}
+    \item Only a subset of cells are activated by cancer signals in engineered breast cancer tissue.
+     \item Developed a linear classifier to predict cell shape with an accuracy of 95\%.
+     \item Established the existence of activation primed cell shapes using multimodal-multivariate analysis.
+    \item Demonstrated a causal relationship between cell geometry and activation \em {[MBoC,2020]}.
+\end{itemize}
+\vspace{1mm}
+{\bf Time series analysis of reprogramming}
+\begin{itemize}
+    \item Developed a novel method to reprogram fibroblasts to iPSC-like cells.
+    \item Aligned, analyzed and visualized the transcriptome during mechanically induced de-differentiation. Performed statistical tests and pathway analysis to characterize the temporal changes in the transcription profile and infer the biological relevance \em {[PNAS,2018]}.
+    \item Implemented pseudo-temporal ordering of single cell data to identify variable trajectories during the generation of stem cells. 
+\end{itemize}
+\vspace{1mm}
+{\bf DNA structure informs its function}
+\begin{itemize}
+    \item Predicted DNA structure from integrating RNA-Seq and ChIP-Seq data and validated    the robustness using experiments and HiC data \em{[PNAS,2017]}.
+    \item Identified latent immune cells based on image based DNA structures and clustering large single cell RNA-Seq dataset \em{[bioRxiv,2019]}.
+\end{itemize}
+\vspace{1mm}
+{\bf Cell shape modulates cellular response to stimuli}
+\begin{itemize}
+    \item Aligned, analyzed, visualized and interpreted differential gene expression patterns in RNA-Seq and microarray data. Also performed statistical tests and pathway analysis. 
+    \item Demonstrated the cell shape can modulate the transcriptional response to compressive load and inflammation \em{[PNAS, 2017][MBoC, 2018]}.
+\end{itemize}
+\vspace{1mm}
+{\bf Identification of dead cancer cells (Apoptotic)}
+\begin{itemize}
+\item Developed automatic image feature extraction from high content drug screens on cancer cells.
+\item Deployed multiple machine learning methods for classifying cancer cells as either dead (apoptotic) or live.
+Achieved identification accuracy of over 90\%.
+\end{itemize}
+
+%--------HONORS AND AWARDS------------
+\vspace{1mm}
+\section{\bf HONORS AND AWARDS}
+\begin{itemize}
+    \item Dean’s Merit list given to the top 2-10\% students in the University \hfill \emph {2015}
+    \item Inspirational Mentorship Award, NUS High School \hfill \emph {2017} 
+    \item Best Oral Presentation Award, Genomes and AI: From Packing to Regulation \hfill \emph{2019} 
+\end{itemize}
+
+%--------PAST EXPERIENCES------------
+\vspace{1mm}
+\section{\bf PAST EXPERIENCES}
+{\bf Intern, }{\emph{Biophysics laboratory}}{, Raman Research Institute (RRI)}\hfill {\emph Winter, 2013} \\
+\hspace*{5ex}Developed algorithms to identify and track vesicles in axons.\\
+{\bf Medical Intern, }{\emph {Kanmani Fertility Clinic}, Raju Hospitals}\hfill {\emph Summer, 2013} \\
+\hspace*{5ex} Performed androgen characterisation, leukocyte culture, karyotyping and follicular study on patient samples.\\
+{\bf Undergraduate researcher, }{\emph{Chromatin Epigenetics laboratory}}{, SASTRA University}\hfill {\emph 2012-2014} \\
+\hspace*{5ex}Developed algorithms to identify apoptotic cells with an accuracy of over 90\% in a high content screen.
+
+%--------LEADERSHIP AND TEACHING EXPERIENCE------------
+\vspace{1mm}
+\section{\bf LEADERSHIP AND TEACHING EXPERIENCE}
+\begin{itemize}
+    \item Designed and instructed a workshop session-Image Analysis for dummies  \hfill \emph {May, 2015}
+    \item Teaching Assistance for MATLAB Programming- Bootcamp for Mechanobiology \hfill \emph {August, 2017} 
+    \item Teaching Assistance for module Nuclear Mechanics and Genome Regulation \hfill \emph{Jan 2016 - Apr 2016} 
+    \item Teaching Assistance for Nuclear Mechanics and Genome Regulation \hfill \emph{Jan 2016 - Apr 2016}
+     \item Supervised and mentored 5 students in the lab towards their thesis.
+\end{itemize}
+
+
+%-------CONFERENCE: TALKS AND POSTERS------------------  
+\vspace{1mm}
+\section{\bf CONFERENCE: TALKS AND POSTERS}
+\begin{etaremune}[itemsep=0pt,parsep=0pt]
+    \item 64th Annual Biophysical Society Meeting    \hfill {\emph San Diego, Feb 2020}\\
+        \hspace*{3ex}Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
+     \item Drug Discovery 2019 – Looking Back To The Future  \hfill {\emph Liverpool, Nov 2019}\\
+        \hspace*{3ex}Talk: Invited Speaker:“Mechano-Genomics: from Cell-Fate Decisions to Biomarkers”
+    \item International Conference on Genomes and AI: From Packing to Regulation  \hfill {\emph Singapore, Oct 2019}\\
+        \hspace*{3ex}Talk: “Multivariate analysis of fibroblast activation in engineered 3D tumor microenvironments”
+    \item Mechanobiology after 10 Years: The Promise of Mechanomedicine \hfill {\emph Singapore, Nov 2018}\\
+        \hspace*{3ex}Poster: “Heterogeneity in cell geometric states regulate the selective activation of fibroblasts”
+    \item Nuclear Mechanogenomics, EMBO Workshop \hfill {\emph Singapore, Apr 2018}\\
+        \hspace*{3ex}Talk: Role of cell geometry and 3D chromatin structure in differential genome regulation”
+    \item The 3rd International Symposium on Mechanobiology  \hfill {\emph Singapore, Dec 2017}\\
+        \hspace*{3ex}Talk: “Role of 3D chromatin architecture in differential genome regulation”
+     \item Mechanobiology of Disease, MBI-BioPhysical Society meeting \hfill {\emph Singapore, Sep 2016}\\
+        \hspace*{3ex}Poster: “Nuclear positioning and its translation dynamics is regulated by cell geometry”
+\end{etaremune}
+
+%-------PEER REVIEWED PUBLICATIONS------------------  
+\vspace{1mm}
+\section{\bf PEER REVIEWED PUBLICATIONS}
+\begin{etaremune}[itemsep=0pt,parsep=0pt]
+    \item {\bf Venkatachalapathy S}, Jokhun DS, and Shivashankar GV. Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments.{\emph Mol. Biol. Cell}.2020;:mbcE19080420. [PMID:32023167]
+    \item Damodaran K*, {\bf Venkatachalapathy S*}, Alisafaei F, Radhakrishnan AV, Sharma Jokhun D, Shenoy VB, and Shivashankar GV. Compressive force induces reversible chromatin condensation and cell geometry dependent transcriptional response.{\emph Mol. Biol. Cell}.2018;:mbcE18040256. [PMID:30256731]
+    \item Roy B, {\bf Venkatachalapathy S}, Ratna P, Wang Y, Jokhun DS, Nagarajan M, and Shivashankar GV. Laterally confined growth of cells induces nuclear reprogramming in the absence of exogenous biochemical factors.{\emph Proc. Natl. Acad. Sci. U.S.A}.2018;. [PMID: 29735717]
+    \item Belyaeva A, {\bf Venkatachalapathy S}, Nagarajan M, Shivashankar GV, and Uhler C. Network analysis identifies chromosome intermingling regions as regulatory hotspots for transcription.{\emph Proc. Natl. Acad. Sci. U.S.A}. 2017;.[PMID:29229825]
+    \item Mitra A, {\bf Venkatachalapathy S}, Ratna P, Wang Y, Jokhun DS, and Shivashankar GV. Cell geometry dictates TNF$\alpha A$-induced genome response.{\emph Proc. Natl. Acad. Sci. U.S.A}.2017;[PMID:28461498]
+    \item Radhakrishnan AV, Jokhun DS, {\bf Venkatachalapathy S}, and Shivashankar GV. Nuclear Positioning and Its Translational Dynamics Are Regulated by Cell Geometry. {\emph Biophys.J}.2017;112(9):1920-1928.[PMID:28494962]
+\end{etaremune}
+* indicates equal contribution\\
+Complete List of publications: {\href{https://tinyurl.com/pulications-sv}{\underline {Here}}}
+\end{document}
+
+
+
+
+
+
+
