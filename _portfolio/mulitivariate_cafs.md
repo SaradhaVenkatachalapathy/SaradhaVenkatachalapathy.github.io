@@ -5,10 +5,7 @@ In order to understand the factors that contribute to the selective activation o
 Our results indicate the presence of activation-“primed” cell geometries that present higher activation levels which are further enhanced in the presence of stimuli from cancer cells. Further we show that by enriching the population of activation-primed cell geometric states by either increasing matrix rigidity or micro-patterning primed cell shapes, fibroblast activation levels can be increased. <br/> 
 Our results reveal important cellular geometric states that select for fibroblast activation within the heterogenous tumor microenvironment.Our study presents a framework for studying single cell heterogeneity and highlights the
 importance of the geometric state of fibroblasts in the interpretation of environmental signals.
-
 <br/><img src='/files/mulitivariate_cafs/mulitivariate_cafs_micro_img.jpeg'><img src='/files/mulitivariate_cafs/mulitivariate_cafs_hetergenity.jpeg'>"<br/>
 <img src='/files/mulitivariate_cafs/mulitivariate_cafs_approach.jpeg'><img src='/files/mulitivariate_cafs/mulitivariate_cafs_model.jpeg'>"<br/>
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
