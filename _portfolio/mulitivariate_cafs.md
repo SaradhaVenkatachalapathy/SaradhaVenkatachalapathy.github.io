@@ -6,6 +6,6 @@ Our results indicate the presence of activation-“primed” cell geometries tha
 Our results reveal important cellular geometric states that select for fibroblast activation within the heterogenous tumor microenvironment.Our study presents a framework for studying single cell heterogeneity and highlights the
 importance of the geometric state of fibroblasts in the interpretation of environmental signals.
 <br/><img src='/files/mulitivariate_cafs/mulitivariate_cafs_micro_img.jpeg'><img src='/files/mulitivariate_cafs/mulitivariate_cafs_hetergenity.jpeg'>"<br/>
-<img src='/files/mulitivariate_cafs/mulitivariate_cafs_approach.jpeg'><img src='/files/mulitivariate_cafs/mulitivariate_cafs_model.jpeg'>"<br/>
+<img src='/files/mulitivariate_cafs/mulitivariate_cafs_approach.jpeg'><img src='/files/mulitivariate_cafs/mulitivariate_cafs_model.jpeg'>"<br/>"
 collection: portfolio
 ---
