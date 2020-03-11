@@ -77,6 +77,10 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 * Annual Biophysical Society Meeting (San Diego, Feb 2020)<br/>
   Talk:“Cell Geometry Modulates the Activation of Fibroblasts in 3D Tumor Microenvironment
 
+<ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 ## PEER REVIEWED PUBLICATIONS
 1. Venkatachalapathy S, Jokhun DS, and Shivashankar GV. Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments. Mol. Biol. Cell 2020;:mbcE19080420. [PMID: 32023167]
 2. Damodaran K*, Venkatachalapathy S*, Alisafaei F, Radhakrishnan AV, Sharma Jokhun D, Shenoy VB, and Shivashankar GV. Compressive force induces reversible chromatin condensation and cell geometry dependent transcriptional response. Mol. Biol. Cell 2018;:mbcE18040256. [PMID: 30256731](*equal contribution)
@@ -85,3 +89,6 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 5. Mitra A, Venkatachalapathy S, Ratna P, Wang Y, Jokhun DS, and Shivashankar GV. Cell geometry dictates TNFα-induced genome response. Proc. Natl. Acad. Sci. U.S.A. 2017;. [PMID: 28461498]
 6. Radhakrishnan AV, Jokhun DS, Venkatachalapathy S, and Shivashankar GV. Nuclear Positioning and Its Translational Dynamics Are Regulated by Cell Geometry. Biophys. J. 2017; 112(9):1920-1928. [PMID: 28494962]
 
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
