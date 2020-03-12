@@ -2,7 +2,7 @@
 title: "Measuring the contribution of cell mechanics to the selective activation of fibroblasts by cancer"
 excerpt: "Established the existence of activation primed cell shapes using multimodal-multivariate analysis. Demonstrated a causal relationship between cell geometry and activation. In addition, our study presents a framework for studying single cell heterogeneity and highlights the importance of the geometric state of fibroblasts in the interpretation of environmental signals. <br/>
 < a href='saradhavenkatachalapathy.github.io/publication/2020-02-05-multivariate_cafs'>Paper </a> 
-< a href='saradhavenkatachalapathy.github.io/files/Poster_annualBPS_2020.pdf'> Poster</a> <br/>
+< a href='/files/Poster_annualBPS_2020.pdf'> Poster</a> <br/>
 <br/><img src='/files/multivariate_cafs.png' height='200' width='500'>"
 collection: portfolio
 ---
