@@ -2,7 +2,7 @@
 title: "Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments."
 collection: publications
 permalink: /publication/2020-02-05-multivariate_cafs
-excerpt: 'In this study, we map fibroblast cell shapes to their activation level and demontrate a causal relationship between the two.[Paper](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E19-08-0420)[Spotlight](https://saradhavenkatachalapathy.github.io/portfolio/mulitivariate_cafs/)'
+excerpt: 'In this study, we map fibroblast cell shapes to their activation level and demontrate a causal relationship between the two.<br\> [Paper](https://www.molbiolcell.org/doi/abs/10.1091/mbc.E19-08-0420) ' ' [Spotlight](https://saradhavenkatachalapathy.github.io/portfolio/mulitivariate_cafs/)'
 date: 2020-02-05
 venue: 'Molecular Biology of the Cell'
 authors: Saradha Venkatachalapathy, Doorgesh Sharma Jokhun, and G. V. Shivashankar
