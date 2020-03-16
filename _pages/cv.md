@@ -48,6 +48,12 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 * Aligned, analyzed, visualized and interpreted differential gene expression patterns in RNA-Seq and microarray data. Also performed statistical tests and pathway analysis. 
 * Demonstrated the cell shape can modulate the transcriptional response to compressive load and inflammation.
 
+**Identification of dead (Apoptotic) cancer cells in a high-content screen**
+* Setup preliminary high content screen to characterize cancer cell survival in the presence of various drugs 
+* Developed automatic image feature extraction from high content drug screens on cancer cells.
+* Deployed multiple machine learning methods for classifying cancer cells as either dead (apoptotic) or live.
+Achieved identification accuracy of over 90%.
+
 ## AWARDS AND HONOURS
 * Dean’s Merit list of the top 2-10% in the University (2014-2015)
 * Inspirational Mentorship Award, NUS High School(2017)  
@@ -60,7 +66,8 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 
 ## MENTORSHIP AND TEACHING EXPERIENCE
 * Designed and instructed a workshop session-Image Analysis for dummies
-* Teaching Assistance for MATLAB Programming- Bootcamp for Mechanobiology • Teaching Assistance for Nuclear Mechanics and Genome Regulation
+* Teaching Assistance for MATLAB Programming- Bootcamp for Mechanobiology 
+* Teaching Assistance for Nuclear Mechanics and Genome Regulation
 * Supervised and mentored over 5 students in the lab towards their thesis.
 
 ## CONFERENCE: TALKS AND POSTERS
