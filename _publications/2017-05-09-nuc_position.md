@@ -5,6 +5,7 @@ permalink: /publications/2017-05-09-nuc_position
 excerpt: "This paper explores how the positional dynamics of the nucleus is modulated in cells of different shapes"
 date: 2017-05-09
 venue: "Biophysical Journal"
+authors: Radhakrishnan AV, Jokhun DS, Saradha Venkatachalapathy, and Shivashankar GV
 ---
 
 ## Abstract
