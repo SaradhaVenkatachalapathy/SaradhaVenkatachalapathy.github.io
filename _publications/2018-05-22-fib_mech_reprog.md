@@ -5,6 +5,7 @@ permalink: /publication/2018-05-22-fib_mech_reprog
 excerpt: 'In this paper we describe a novel method of reprogramming fibroblasts to iPSC-like cells.'
 date: 2018-05-22
 venue: 'Proceedings of the National Academy of Sciences'
+authors: Roy B, Saradha Venkatachalapathy, Ratna P, Wang Y, Jokhun DS, Nagarajan M, and Shivashankar GV
 ---
 
 ## Abstract
