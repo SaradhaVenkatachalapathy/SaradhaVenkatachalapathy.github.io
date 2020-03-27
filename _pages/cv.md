@@ -13,7 +13,6 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 ## EDUCATION AND WORK EXPERIENCE 
 * B.Tech in Biotechnology(with Distinction), SASTRA University, India, 2015
 * Ph.D in Mechanobiology, National University of Singapore, 2020 (expected)
-* Consultant,[Qritive](https://www.qritive.com/)	(Sep-Dec 2019)
 * Research Assistant, NUS (Sep 2015 -Jul 2016)   
 
 ## SKILLS
