@@ -1,0 +1,13 @@
+---
+title: "Predicting cell lineages using autoencoders and optimal transport"
+collection: publications
+permalink: /publication/2020-04-28-AEOT
+excerpt: 'In this study, we map fibroblast cell shapes to their activation level and demontrate a causal relationship between the two.'
+date: 2020-04-28
+venue: 'PLoS computational biology'
+authors: Karren Dai Yang, Karthik Damodaran, Saradha Venkatachalapathy, Ali C Soylemezoglu, GV Shivashankar, Caroline Uhler
+---
+## Abstract
+Lineage tracing involves the identification of all ancestors and descendants of a given cell, and is an important tool for studying biological processes such as development and disease progression. However, in many settings, controlled time-course experiments are not feasible, for example when working with tissue samples from patients. Here we present ImageAEOT, a computational pipeline based on autoencoders and optimal transport for predicting the lineages of cells using time-labeled datasets from different stages of a cellular process. Given a single-cell image from one of the stages, ImageAEOT generates an artificial lineage of this cell based on the population characteristics of the other stages. These lineages can be used to connect subpopulations of cells through the different stages and identify image-based features and biomarkers underlying the biological process. To validate our method, we apply ImageAEOT to a benchmark task based on nuclear and chromatin images during the activation of fibroblasts by tumor cells in engineered 3D tissues. We further validate ImageAEOT on chromatin images of various breast cancer cell lines and human tissue samples, thereby linking alterations in chromatin condensation patterns to different stages of tumor progression. Our results demonstrate the promise of computational methods based on autoencoding and optimal transport principles for lineage tracing in settings where existing experimental strategies cannot be used.
+
+[[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007828)]
