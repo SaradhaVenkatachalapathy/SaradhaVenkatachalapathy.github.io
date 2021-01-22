@@ -28,7 +28,7 @@ PDF version is also available [here](https://SaradhaVenkatachalapathy.github.io/
 ## SELECTED RESEARCH PROJECTS
 
 **Automated feature generator for 3D images**
-* Built an automatic image processing pipelines for segmentation and feature generation that reduced the processing time by 60\%.
+* Built an automatic image processing pipelines for segmentation and feature generation that reduced the processing time by 60%.
 * Engineered features for morphology, textural and spatial distribution of objects in images.
 * Integrated multi-domain features such as protein expression, RNA seq and image features to enable deduction of functional links.
 
