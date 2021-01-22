@@ -17,6 +17,6 @@ My graduate work focuses on deciphering the contribution of mechanics to the var
  
 
 <br/><br/><br/>
-Here is my [academic CV](https://SaradhaVenkatachalapathy.github.io/files/Saradha_CV.pdf) or for a quick read, here is my [resume] (https://SaradhaVenkatachalapathy.github.io/files/Saradha_resume.pdf).
+Here is my [academic CV](https://SaradhaVenkatachalapathy.github.io/files/Saradha_CV.pdf) or for a quick read, here is my [resume](https://SaradhaVenkatachalapathy.github.io/files/Saradha_resume.pdf).
 
 
