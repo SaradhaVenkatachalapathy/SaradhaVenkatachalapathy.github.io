@@ -13,7 +13,7 @@ I am a PhD student at the [Mechanobiology Institute](https://mbi.nus.edu.sg/mech
 
 Broadly speaking I am interested in quantitative cell biology, but I am particularly fascinated by studies that integrate single cell data from different modalities in space and time for applications in health care. <br/>
 
-My graduate work focuses on deciphering the contribution of mechanics to the variability observed in important heterogenous processes such as cell state transitions in cancer progression and stem cell engineering.  In my reaseach program, I perfrom both experiements and analysis of image and sequencing data at the single cell resolution to infer causality. <br/>
+My graduate work focuses on deciphering the contribution of mechanics to the variability observed in important heterogenous processes such as cell state transitions in cancer progression and stem cell engineering.  In my reaseach program, I perfrom both experiements and analysis of image and sequencing data at the single cell resolution to deduce modulators of cell functions. <br/>
  
 
 <br/><br/><br/>
